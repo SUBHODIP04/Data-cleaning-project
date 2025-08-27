@@ -11,4 +11,4 @@ Using DAX for trimming, replacing blanks, fixing text,
 <br>
 Ensuring unique keys for relationships.
 <br>
-Usually, Power Query is used for heavy data cleaning, and Power Pivot is used for modeling + calculations.
+## Usually, Power Query is used for heavy data cleaning, and Power Pivot is used for modeling + calculations.
